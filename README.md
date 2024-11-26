@@ -361,3 +361,5 @@ Bo Dai: [doubledaibo@gmail.com](mailto:doubledaibo@gmail.com)
 
 ## Acknowledgements
 Codebase built upon [Tune-a-Video](https://github.com/showlab/Tune-A-Video).
+#   A n i m a t e D i f f  
+ 
